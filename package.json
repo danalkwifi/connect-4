@@ -1,5 +1,6 @@
 {
-  "name": "connect-4",
+  "name": "lab2_dalkwifi",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
